@@ -1,2 +1,3 @@
 # Artemis.esg-Showcase-Video
-Flutter Web Application that utilizes variety of packages.
+
+ARTEMIS.esg is an assessment and management platform that follows a specific set of ESG industry indicators based on the type of company. The application Conduct analysis against a set of criteria, identifying gaps across all ESG areas. Provide competitive, data driven benchmarking across these areas. Based on the results, the app provides alternative solutions (using machine learning) to help the company improve its ESG practices. It is also equipped with IoT Edge Devices to track the company’s carbon emissions. This web application utilizes Flutter and a variety of Flutter packages.
